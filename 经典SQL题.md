@@ -22,4 +22,4 @@
 
 ### 4. 给定一张日志表，有4个字段 user_id / age / page_id / dt，求得所有用户和活跃用户的总数及平均年龄。（活跃用户指连续两天都有访问记录的用户）
 
-
+### 5. 给定一张视频观看日志表，有5个字段 movie_id / user_id / visit_start_time / visit_end_time / dt，求每个视频当天同时在线的最大人数
